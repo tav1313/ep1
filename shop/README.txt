@@ -8,4 +8,5 @@ Provide code from implementation.
 
 *** How to run
 
-From terminal at the root of the 'shop' folder `npx wdio wdio.conf.js`
+From terminal at the root of the 'shop' folder
+`npm install` && `npx wdio wdio.conf.js`
